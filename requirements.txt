@@ -1,0 +1,6 @@
+customtkinter
+tkinterweb
+ollama
+markdown
+pygments
+matplotlib
